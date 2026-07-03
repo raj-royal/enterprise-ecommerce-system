@@ -1,0 +1,28 @@
+### IntelliJ ###
+.idea/
+*.iml
+
+### Maven ###
+target/
+
+### Logs ###
+*.log
+
+### OS Files ###
+.DS_Store
+Thumbs.db
+
+### Environment ###
+.env
+
+### VS Code ###
+.vscode/
+
+### Node ###
+node_modules/
+
+### React ###
+frontend/node_modules/
+
+### Spring Boot ###
+backend/target/
